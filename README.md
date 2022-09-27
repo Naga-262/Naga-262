@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naga-262
 - 👀 I’m interested in Creating new things on my own.
-- 🌱 I’m currently learning ML using Python , Web Development
+- 🌱 I’m currently learning ML using Python , Data Center Architecture.
 - 📫 How to reach me . E-mail : naganandan262@gmail.com
 
 <!---
